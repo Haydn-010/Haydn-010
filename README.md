@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Haydn-010
+- 👀 I’m interested in Finance and Data Analysis
+- 🌱 I’m currently learning Python
